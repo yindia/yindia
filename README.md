@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-**"I've watched talent get overlooked for politics.**  
+**I've watched talent get overlooked for politics.**  
 **I've seen merit lose to manipulation.**  
 **I've witnessed brilliance dimmed by bias.**
 
