@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Cracked engineer accelerating entropy through code and a messed-up sleep cycle. </h1>
+  <h1> 🍻 Cracked engineer accelerating entropy through code, with a messed-up sleep cycle </h1>
 </div>
 <div align="center">
 
